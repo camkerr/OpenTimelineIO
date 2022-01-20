@@ -31,8 +31,8 @@ Final Cut Pro X XML Format:
 - Status: Reads and writes AAF compositions
   - includes clip, gaps, transitions but not markers or effects
   - This adapter is still in progress, see the ongoing work here: <a href="https://github.com/PixarAnimationStudios/OpenTimelineIO/projects/1" target="_blank">AAF Project</a>
-- <a href="http://www.amwa.tv/downloads/specifications/aafobjectspec-v1.1.pdf" target="_blank">Spec</a>
-- <a href="http://www.amwa.tv/downloads/specifications/aafeditprotocol.pdf" target="_blank">Protocol</a>
+- <a href="https://static.amwa.tv/ms-01-aaf-object-spec.pdf" target="_blank">Spec</a>
+- <a href="https://static.amwa.tv/as-01-aaf-edit-protocol-spec.pdf" target="_blank">Protocol</a>
 
 - Depends on the <a href="https://github.com/markreidvfx/pyaaf2" target="_blank">`PyAAF2`</a> module, so either:
     - `pip install pyaaf2`
